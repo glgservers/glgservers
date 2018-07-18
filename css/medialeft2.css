@@ -1,0 +1,38 @@
+body {
+  background: blue;
+  border: 10px solid green;
+}
+
+.imagendiv{
+  background-image: url('../images/glg.png');
+  background-size:contain;
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  width: 290px;
+}
+
+.menu {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  position: absolute;
+  left:160px;
+  width: 600px;
+  background-color:;
+}
+
+.cuadro{
+  display: block;
+}
+
+.BA{
+  margin-left:50px;
+
+}
+
+.BA h1{
+  font-family: 'Archivo Black', sans-serif;
+  font-style: italic;
+  font-size:20px;
+}

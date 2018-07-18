@@ -1,0 +1,23 @@
+body {
+  background: gray;
+  border: 10px solid blue;
+}
+
+.imagendiv{
+  background-image: url('../images/glg.png');
+  background-size:contain;
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  width: 290px;
+}
+
+.menu {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  position: absolute;
+  left:160px;
+  width: 600px;
+  background-color:;
+}
